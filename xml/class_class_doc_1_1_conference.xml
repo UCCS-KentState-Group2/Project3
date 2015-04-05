@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.9.1">
+  <compounddef id="class_class_doc_1_1_conference" kind="class" language="C#" prot="public">
+    <compoundname>ClassDoc::Conference</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_class_doc_1_1_conference_1ae0af145f8b45393641c500d7f22cf51b" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string ClassDoc.Conference.conferenceName</definition>
+        <argsstring></argsstring>
+        <name>conferenceName</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/Confrence.cs" line="12" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Confrence.cs" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_class_doc_1_1_conference_1aec47d1f403a141e5f37b3d41c8b2f6cc" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int ClassDoc.Conference.Cost</definition>
+        <argsstring></argsstring>
+        <name>Cost</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/Confrence.cs" line="13" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Confrence.cs" bodystart="13" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_class_doc_1_1_conference_1a923785c3698bb23c077ea0a0bc545338" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int ClassDoc.Conference.costPerGuest</definition>
+        <argsstring></argsstring>
+        <name>costPerGuest</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/Confrence.cs" line="14" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Confrence.cs" bodystart="14" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_class_doc_1_1_conference_1a7fc410d5b65c86f5f24938d42262ede0" prot="private" static="no" mutable="no">
+        <type>Sessions[]</type>
+        <definition>Sessions [] ClassDoc.Conference.Sessions</definition>
+        <argsstring></argsstring>
+        <name>Sessions</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/Confrence.cs" line="15" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Confrence.cs" bodystart="15" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_class_doc_1_1_conference_1a0ea5fe00b097e52f6e1e7383556343e7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void ClassDoc.Conference.addToRecord</definition>
+        <argsstring>()</argsstring>
+        <name>addToRecord</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/Confrence.cs" line="17" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Confrence.cs" bodystart="17" bodyend="21"/>
+      </memberdef>
+      <memberdef kind="function" id="class_class_doc_1_1_conference_1aca2addadfb2b984794a5d9587c8af803" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void ClassDoc.Conference.calculateCost</definition>
+        <argsstring>()</argsstring>
+        <name>calculateCost</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/Confrence.cs" line="23" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Confrence.cs" bodystart="23" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="class_class_doc_1_1_conference_1a41afaa116efa55bb58da1b63ab4b5579" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void ClassDoc.Conference.calculateCostPerGuest</definition>
+        <argsstring>()</argsstring>
+        <name>calculateCostPerGuest</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/Confrence.cs" line="28" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Confrence.cs" bodystart="28" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="class_class_doc_1_1_conference_1ab503e3fb79e311cceb8291e18a6d6613" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void ClassDoc.Conference.generateHTMLOverload</definition>
+        <argsstring>()</argsstring>
+        <name>generateHTMLOverload</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/Confrence.cs" line="33" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Confrence.cs" bodystart="33" bodyend="37"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Brian/Desktop/Stark/Project3/Confrence.cs" line="11" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Confrence.cs" bodystart="10" bodyend="44"/>
+    <listofallmembers>
+      <member refid="class_class_doc_1_1_conference_1a0ea5fe00b097e52f6e1e7383556343e7" prot="public" virt="non-virtual"><scope>ClassDoc::Conference</scope><name>addToRecord</name></member>
+      <member refid="class_class_doc_1_1_conference_1aca2addadfb2b984794a5d9587c8af803" prot="public" virt="non-virtual"><scope>ClassDoc::Conference</scope><name>calculateCost</name></member>
+      <member refid="class_class_doc_1_1_conference_1a41afaa116efa55bb58da1b63ab4b5579" prot="public" virt="non-virtual"><scope>ClassDoc::Conference</scope><name>calculateCostPerGuest</name></member>
+      <member refid="class_class_doc_1_1_conference_1ae0af145f8b45393641c500d7f22cf51b" prot="private" virt="non-virtual"><scope>ClassDoc::Conference</scope><name>conferenceName</name></member>
+      <member refid="class_class_doc_1_1_conference_1aec47d1f403a141e5f37b3d41c8b2f6cc" prot="private" virt="non-virtual"><scope>ClassDoc::Conference</scope><name>Cost</name></member>
+      <member refid="class_class_doc_1_1_conference_1a923785c3698bb23c077ea0a0bc545338" prot="private" virt="non-virtual"><scope>ClassDoc::Conference</scope><name>costPerGuest</name></member>
+      <member refid="class_class_doc_1_1_conference_1ab503e3fb79e311cceb8291e18a6d6613" prot="public" virt="non-virtual"><scope>ClassDoc::Conference</scope><name>generateHTMLOverload</name></member>
+      <member refid="class_class_doc_1_1_conference_1a7fc410d5b65c86f5f24938d42262ede0" prot="private" virt="non-virtual"><scope>ClassDoc::Conference</scope><name>Sessions</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.9.1">
+  <compounddef id="classregistration_form" kind="class" language="C#" prot="public">
+    <compoundname>registrationForm</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classregistration_form_1ab0aa8a2b8bb1f7edbe5fbee835c52bd5" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string registrationForm.Email</definition>
+        <argsstring></argsstring>
+        <name>Email</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/registrationForm.cs" line="5" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/registrationForm.cs" bodystart="5" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classregistration_form_1a017c3cb50edd6ecad0cb3b990a32a69d" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void registrationForm.updateRecord</definition>
+        <argsstring>()</argsstring>
+        <name>updateRecord</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/registrationForm.cs" line="7" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/registrationForm.cs" bodystart="7" bodyend="11"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Brian/Desktop/Stark/Project3/registrationForm.cs" line="4" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/registrationForm.cs" bodystart="3" bodyend="17"/>
+    <listofallmembers>
+      <member refid="classregistration_form_1ab0aa8a2b8bb1f7edbe5fbee835c52bd5" prot="private" virt="non-virtual"><scope>registrationForm</scope><name>Email</name></member>
+      <member refid="classregistration_form_1a017c3cb50edd6ecad0cb3b990a32a69d" prot="public" virt="non-virtual"><scope>registrationForm</scope><name>updateRecord</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

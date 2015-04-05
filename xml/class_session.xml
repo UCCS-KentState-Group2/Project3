@@ -1,0 +1,241 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.9.1">
+  <compounddef id="class_session" kind="class" language="C#" prot="public">
+    <compoundname>Session</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_session_1a6fd06b61157a3531fd980b246f4d47b4" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string Session.Room</definition>
+        <argsstring></argsstring>
+        <name>Room</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" line="5" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" bodystart="5" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_session_1a3a519960878d101e5c2695b446f37feb" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Session.Cost</definition>
+        <argsstring></argsstring>
+        <name>Cost</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" line="6" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" bodystart="6" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_session_1adfe64db47113ecaaeb7df95f29675e6e" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string Session.sessionName</definition>
+        <argsstring></argsstring>
+        <name>sessionName</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" line="7" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" bodystart="7" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_session_1a586093c94a83d36125657172638af199" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string Session.conferenceName</definition>
+        <argsstring></argsstring>
+        <name>conferenceName</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" line="8" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_session_1a0d4be802c3bf38363dcb5f34250f18ce" prot="private" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool Session.isSpecial</definition>
+        <argsstring></argsstring>
+        <name>isSpecial</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" line="9" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" bodystart="9" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_session_1a4ac2b5c4fc3bf5660c1b31aa4cab3a2e" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string Session.startTime</definition>
+        <argsstring></argsstring>
+        <name>startTime</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" line="10" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_session_1a44c56869ea81c5366e941ab1a91ff50d" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string Session.endTime</definition>
+        <argsstring></argsstring>
+        <name>endTime</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" line="11" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_session_1a17a1c9f1c0628dbce2e7ab777f74c3c1" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Session.attendingGuests</definition>
+        <argsstring></argsstring>
+        <name>attendingGuests</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" line="12" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_session_1a60384a6eb6c50dabb5646dbd92d2bae7" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string Session.sessionDate</definition>
+        <argsstring></argsstring>
+        <name>sessionDate</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" line="13" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" bodystart="13" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_session_1afe964d742f5bca510f9447b6f90056ce" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Session.whiteBoard</definition>
+        <argsstring></argsstring>
+        <name>whiteBoard</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" line="14" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" bodystart="14" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_session_1a8d6592f505599dfac5a4b598177426b9" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Session.videoProjector</definition>
+        <argsstring></argsstring>
+        <name>videoProjector</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" line="15" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" bodystart="15" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_session_1ab36aa330b07bb362d8ddde1e2f411e2f" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int Session.Speakers</definition>
+        <argsstring></argsstring>
+        <name>Speakers</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" line="16" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" bodystart="16" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_session_1abd2f6cb2f23024f0bf220651e95fdfa2" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Session.addGuest</definition>
+        <argsstring>()</argsstring>
+        <name>addGuest</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" line="18" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" bodystart="18" bodyend="22"/>
+      </memberdef>
+      <memberdef kind="function" id="class_session_1a3af149fde88591f9b8dbc6e17f4f59e7" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Session.reserveEquipment</definition>
+        <argsstring>()</argsstring>
+        <name>reserveEquipment</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" line="23" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" bodystart="23" bodyend="27"/>
+      </memberdef>
+      <memberdef kind="function" id="class_session_1ab9838d269edf0d6fe3db206eff8a60b3" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Session.calculateCost</definition>
+        <argsstring>()</argsstring>
+        <name>calculateCost</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" line="28" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" bodystart="28" bodyend="32"/>
+      </memberdef>
+      <memberdef kind="function" id="class_session_1a8bf327ca5690874714e16000a66af768" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Session.createConference</definition>
+        <argsstring>()</argsstring>
+        <name>createConference</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" line="33" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" bodystart="33" bodyend="37"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" line="4" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Session.cs" bodystart="3" bodyend="45"/>
+    <listofallmembers>
+      <member refid="class_session_1abd2f6cb2f23024f0bf220651e95fdfa2" prot="public" virt="non-virtual"><scope>Session</scope><name>addGuest</name></member>
+      <member refid="class_session_1a17a1c9f1c0628dbce2e7ab777f74c3c1" prot="private" virt="non-virtual"><scope>Session</scope><name>attendingGuests</name></member>
+      <member refid="class_session_1ab9838d269edf0d6fe3db206eff8a60b3" prot="public" virt="non-virtual"><scope>Session</scope><name>calculateCost</name></member>
+      <member refid="class_session_1a586093c94a83d36125657172638af199" prot="private" virt="non-virtual"><scope>Session</scope><name>conferenceName</name></member>
+      <member refid="class_session_1a3a519960878d101e5c2695b446f37feb" prot="private" virt="non-virtual"><scope>Session</scope><name>Cost</name></member>
+      <member refid="class_session_1a8bf327ca5690874714e16000a66af768" prot="public" virt="non-virtual"><scope>Session</scope><name>createConference</name></member>
+      <member refid="class_session_1a44c56869ea81c5366e941ab1a91ff50d" prot="private" virt="non-virtual"><scope>Session</scope><name>endTime</name></member>
+      <member refid="class_session_1a0d4be802c3bf38363dcb5f34250f18ce" prot="private" virt="non-virtual"><scope>Session</scope><name>isSpecial</name></member>
+      <member refid="class_session_1a3af149fde88591f9b8dbc6e17f4f59e7" prot="public" virt="non-virtual"><scope>Session</scope><name>reserveEquipment</name></member>
+      <member refid="class_session_1a6fd06b61157a3531fd980b246f4d47b4" prot="private" virt="non-virtual"><scope>Session</scope><name>Room</name></member>
+      <member refid="class_session_1a60384a6eb6c50dabb5646dbd92d2bae7" prot="private" virt="non-virtual"><scope>Session</scope><name>sessionDate</name></member>
+      <member refid="class_session_1adfe64db47113ecaaeb7df95f29675e6e" prot="private" virt="non-virtual"><scope>Session</scope><name>sessionName</name></member>
+      <member refid="class_session_1ab36aa330b07bb362d8ddde1e2f411e2f" prot="private" virt="non-virtual"><scope>Session</scope><name>Speakers</name></member>
+      <member refid="class_session_1a4ac2b5c4fc3bf5660c1b31aa4cab3a2e" prot="private" virt="non-virtual"><scope>Session</scope><name>startTime</name></member>
+      <member refid="class_session_1a8d6592f505599dfac5a4b598177426b9" prot="private" virt="non-virtual"><scope>Session</scope><name>videoProjector</name></member>
+      <member refid="class_session_1afe964d742f5bca510f9447b6f90056ce" prot="private" virt="non-virtual"><scope>Session</scope><name>whiteBoard</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

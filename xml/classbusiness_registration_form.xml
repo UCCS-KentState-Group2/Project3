@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.9.1">
+  <compounddef id="classbusiness_registration_form" kind="class" language="C#" prot="public">
+    <compoundname>businessRegistrationForm</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classbusiness_registration_form_1a855c8ff391f186d69ac5480e5f7465c2" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string businessRegistrationForm.businessName</definition>
+        <argsstring></argsstring>
+        <name>businessName</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/businessRegistrationForm.cs" line="6" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/businessRegistrationForm.cs" bodystart="6" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classbusiness_registration_form_1a5ce65b21ac3965d9ee93402b1fef1d1a" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string businessRegistrationForm.paymentType</definition>
+        <argsstring></argsstring>
+        <name>paymentType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/businessRegistrationForm.cs" line="7" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/businessRegistrationForm.cs" bodystart="7" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classbusiness_registration_form_1a2f396c416d6177324956870337a204de" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string businessRegistrationForm.cardNumber</definition>
+        <argsstring></argsstring>
+        <name>cardNumber</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/businessRegistrationForm.cs" line="8" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/businessRegistrationForm.cs" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classbusiness_registration_form_1af322ed15e5c6b2f9d2afdd99864c4a87" prot="private" static="no" mutable="no">
+        <type><ref refid="class_session" kindref="compound">Session</ref>[]</type>
+        <definition>Session [] businessRegistrationForm.createdSession</definition>
+        <argsstring></argsstring>
+        <name>createdSession</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/businessRegistrationForm.cs" line="9" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/businessRegistrationForm.cs" bodystart="9" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classbusiness_registration_form_1a2b08be929633cd3e9e20c847cd8e6518" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void businessRegistrationForm.createSession</definition>
+        <argsstring>()</argsstring>
+        <name>createSession</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/businessRegistrationForm.cs" line="11" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/businessRegistrationForm.cs" bodystart="11" bodyend="15"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Brian/Desktop/Stark/Project3/businessRegistrationForm.cs" line="4" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/businessRegistrationForm.cs" bodystart="3" bodyend="21"/>
+    <listofallmembers>
+      <member refid="classbusiness_registration_form_1a855c8ff391f186d69ac5480e5f7465c2" prot="private" virt="non-virtual"><scope>businessRegistrationForm</scope><name>businessName</name></member>
+      <member refid="classbusiness_registration_form_1a2f396c416d6177324956870337a204de" prot="private" virt="non-virtual"><scope>businessRegistrationForm</scope><name>cardNumber</name></member>
+      <member refid="classbusiness_registration_form_1af322ed15e5c6b2f9d2afdd99864c4a87" prot="private" virt="non-virtual"><scope>businessRegistrationForm</scope><name>createdSession</name></member>
+      <member refid="classbusiness_registration_form_1a2b08be929633cd3e9e20c847cd8e6518" prot="public" virt="non-virtual"><scope>businessRegistrationForm</scope><name>createSession</name></member>
+      <member refid="classbusiness_registration_form_1a5ce65b21ac3965d9ee93402b1fef1d1a" prot="private" virt="non-virtual"><scope>businessRegistrationForm</scope><name>paymentType</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

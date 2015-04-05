@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.9.1">
+  <compound refid="classbusiness_registration_form" kind="class"><name>businessRegistrationForm</name>
+    <member refid="classbusiness_registration_form_1a855c8ff391f186d69ac5480e5f7465c2" kind="variable"><name>businessName</name></member>
+    <member refid="classbusiness_registration_form_1a5ce65b21ac3965d9ee93402b1fef1d1a" kind="variable"><name>paymentType</name></member>
+    <member refid="classbusiness_registration_form_1a2f396c416d6177324956870337a204de" kind="variable"><name>cardNumber</name></member>
+    <member refid="classbusiness_registration_form_1af322ed15e5c6b2f9d2afdd99864c4a87" kind="variable"><name>createdSession</name></member>
+    <member refid="classbusiness_registration_form_1a2b08be929633cd3e9e20c847cd8e6518" kind="function"><name>createSession</name></member>
+  </compound>
+  <compound refid="class_class_doc_1_1_conference" kind="class"><name>ClassDoc::Conference</name>
+    <member refid="class_class_doc_1_1_conference_1ae0af145f8b45393641c500d7f22cf51b" kind="variable"><name>conferenceName</name></member>
+    <member refid="class_class_doc_1_1_conference_1aec47d1f403a141e5f37b3d41c8b2f6cc" kind="variable"><name>Cost</name></member>
+    <member refid="class_class_doc_1_1_conference_1a923785c3698bb23c077ea0a0bc545338" kind="variable"><name>costPerGuest</name></member>
+    <member refid="class_class_doc_1_1_conference_1a7fc410d5b65c86f5f24938d42262ede0" kind="variable"><name>Sessions</name></member>
+    <member refid="class_class_doc_1_1_conference_1a0ea5fe00b097e52f6e1e7383556343e7" kind="function"><name>addToRecord</name></member>
+    <member refid="class_class_doc_1_1_conference_1aca2addadfb2b984794a5d9587c8af803" kind="function"><name>calculateCost</name></member>
+    <member refid="class_class_doc_1_1_conference_1a41afaa116efa55bb58da1b63ab4b5579" kind="function"><name>calculateCostPerGuest</name></member>
+    <member refid="class_class_doc_1_1_conference_1ab503e3fb79e311cceb8291e18a6d6613" kind="function"><name>generateHTMLOverload</name></member>
+  </compound>
+  <compound refid="classguest_registration_form" kind="class"><name>guestRegistrationForm</name>
+    <member refid="classguest_registration_form_1a0aafc01c6a5f2928f1951e0c55374a4c" kind="variable"><name>Name</name></member>
+    <member refid="classguest_registration_form_1acb0c5b9784ba7ac6cfa9019d68c04def" kind="variable"><name>paymentType</name></member>
+    <member refid="classguest_registration_form_1af6c6bf7e12d5fa272bcdfe043636217c" kind="variable"><name>cardNumber</name></member>
+    <member refid="classguest_registration_form_1ab8ade8ec3734b8259c42d1bbf13e1b46" kind="variable"><name>sessiontoAttend</name></member>
+    <member refid="classguest_registration_form_1a55e62337fcdbc19b968efb0cdb787851" kind="variable"><name>attendingSpeecial</name></member>
+    <member refid="classguest_registration_form_1acf02721164647abafc000c5ba5bf4f72" kind="function"><name>addOneToAttendence</name></member>
+  </compound>
+  <compound refid="class_record" kind="class"><name>Record</name>
+    <member refid="class_record_1a501232f9fe4fa1855995e78adb7a4ab2" kind="variable"><name>Conferences</name></member>
+    <member refid="class_record_1a1c83e1f99ccb7833f99e56add17091cf" kind="function"><name>generateHTMLRecord</name></member>
+  </compound>
+  <compound refid="classregistration_form" kind="class"><name>registrationForm</name>
+    <member refid="classregistration_form_1ab0aa8a2b8bb1f7edbe5fbee835c52bd5" kind="variable"><name>Email</name></member>
+    <member refid="classregistration_form_1a017c3cb50edd6ecad0cb3b990a32a69d" kind="function"><name>updateRecord</name></member>
+  </compound>
+  <compound refid="class_session" kind="class"><name>Session</name>
+    <member refid="class_session_1a6fd06b61157a3531fd980b246f4d47b4" kind="variable"><name>Room</name></member>
+    <member refid="class_session_1a3a519960878d101e5c2695b446f37feb" kind="variable"><name>Cost</name></member>
+    <member refid="class_session_1adfe64db47113ecaaeb7df95f29675e6e" kind="variable"><name>sessionName</name></member>
+    <member refid="class_session_1a586093c94a83d36125657172638af199" kind="variable"><name>conferenceName</name></member>
+    <member refid="class_session_1a0d4be802c3bf38363dcb5f34250f18ce" kind="variable"><name>isSpecial</name></member>
+    <member refid="class_session_1a4ac2b5c4fc3bf5660c1b31aa4cab3a2e" kind="variable"><name>startTime</name></member>
+    <member refid="class_session_1a44c56869ea81c5366e941ab1a91ff50d" kind="variable"><name>endTime</name></member>
+    <member refid="class_session_1a17a1c9f1c0628dbce2e7ab777f74c3c1" kind="variable"><name>attendingGuests</name></member>
+    <member refid="class_session_1a60384a6eb6c50dabb5646dbd92d2bae7" kind="variable"><name>sessionDate</name></member>
+    <member refid="class_session_1afe964d742f5bca510f9447b6f90056ce" kind="variable"><name>whiteBoard</name></member>
+    <member refid="class_session_1a8d6592f505599dfac5a4b598177426b9" kind="variable"><name>videoProjector</name></member>
+    <member refid="class_session_1ab36aa330b07bb362d8ddde1e2f411e2f" kind="variable"><name>Speakers</name></member>
+    <member refid="class_session_1abd2f6cb2f23024f0bf220651e95fdfa2" kind="function"><name>addGuest</name></member>
+    <member refid="class_session_1a3af149fde88591f9b8dbc6e17f4f59e7" kind="function"><name>reserveEquipment</name></member>
+    <member refid="class_session_1ab9838d269edf0d6fe3db206eff8a60b3" kind="function"><name>calculateCost</name></member>
+    <member refid="class_session_1a8bf327ca5690874714e16000a66af768" kind="function"><name>createConference</name></member>
+  </compound>
+  <compound refid="namespace_class_doc" kind="namespace"><name>ClassDoc</name>
+  </compound>
+  <compound refid="namespace_system" kind="namespace"><name>System</name>
+  </compound>
+  <compound refid="namespace_system_1_1_collections_1_1_generic" kind="namespace"><name>System::Collections::Generic</name>
+  </compound>
+  <compound refid="namespace_system_1_1_linq" kind="namespace"><name>System::Linq</name>
+  </compound>
+  <compound refid="namespace_system_1_1_text" kind="namespace"><name>System::Text</name>
+  </compound>
+  <compound refid="namespace_system_1_1_threading_1_1_tasks" kind="namespace"><name>System::Threading::Tasks</name>
+  </compound>
+  <compound refid="business_registration_form_8cs" kind="file"><name>businessRegistrationForm.cs</name>
+  </compound>
+  <compound refid="_confrence_8cs" kind="file"><name>Confrence.cs</name>
+  </compound>
+  <compound refid="guest_registration_form_8cs" kind="file"><name>guestRegistrationForm.cs</name>
+  </compound>
+  <compound refid="_record_8cs" kind="file"><name>Record.cs</name>
+  </compound>
+  <compound refid="registration_form_8cs" kind="file"><name>registrationForm.cs</name>
+  </compound>
+  <compound refid="_session_8cs" kind="file"><name>Session.cs</name>
+  </compound>
+</doxygenindex>

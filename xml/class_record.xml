@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.9.1">
+  <compounddef id="class_record" kind="class" language="C#" prot="public">
+    <compoundname>Record</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_record_1a501232f9fe4fa1855995e78adb7a4ab2" prot="private" static="no" mutable="no">
+        <type>Conference[]</type>
+        <definition>Conference [] Record.Conferences</definition>
+        <argsstring></argsstring>
+        <name>Conferences</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/Record.cs" line="5" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Record.cs" bodystart="5" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_record_1a1c83e1f99ccb7833f99e56add17091cf" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Record.generateHTMLRecord</definition>
+        <argsstring>()</argsstring>
+        <name>generateHTMLRecord</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/Record.cs" line="7" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Record.cs" bodystart="7" bodyend="11"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Brian/Desktop/Stark/Project3/Record.cs" line="4" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/Record.cs" bodystart="3" bodyend="18"/>
+    <listofallmembers>
+      <member refid="class_record_1a501232f9fe4fa1855995e78adb7a4ab2" prot="private" virt="non-virtual"><scope>Record</scope><name>Conferences</name></member>
+      <member refid="class_record_1a1c83e1f99ccb7833f99e56add17091cf" prot="public" virt="non-virtual"><scope>Record</scope><name>generateHTMLRecord</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.9.1">
+  <compounddef id="classguest_registration_form" kind="class" language="C#" prot="public">
+    <compoundname>guestRegistrationForm</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classguest_registration_form_1a0aafc01c6a5f2928f1951e0c55374a4c" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string guestRegistrationForm.Name</definition>
+        <argsstring></argsstring>
+        <name>Name</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/guestRegistrationForm.cs" line="6" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/guestRegistrationForm.cs" bodystart="6" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classguest_registration_form_1acb0c5b9784ba7ac6cfa9019d68c04def" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string guestRegistrationForm.paymentType</definition>
+        <argsstring></argsstring>
+        <name>paymentType</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/guestRegistrationForm.cs" line="7" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/guestRegistrationForm.cs" bodystart="7" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classguest_registration_form_1af6c6bf7e12d5fa272bcdfe043636217c" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string guestRegistrationForm.cardNumber</definition>
+        <argsstring></argsstring>
+        <name>cardNumber</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/guestRegistrationForm.cs" line="8" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/guestRegistrationForm.cs" bodystart="8" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classguest_registration_form_1ab8ade8ec3734b8259c42d1bbf13e1b46" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string guestRegistrationForm.sessiontoAttend</definition>
+        <argsstring></argsstring>
+        <name>sessiontoAttend</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/guestRegistrationForm.cs" line="9" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/guestRegistrationForm.cs" bodystart="9" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classguest_registration_form_1a55e62337fcdbc19b968efb0cdb787851" prot="private" static="no" mutable="no">
+        <type>bool</type>
+        <definition>bool guestRegistrationForm.attendingSpeecial</definition>
+        <argsstring></argsstring>
+        <name>attendingSpeecial</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/guestRegistrationForm.cs" line="10" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/guestRegistrationForm.cs" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classguest_registration_form_1acf02721164647abafc000c5ba5bf4f72" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void guestRegistrationForm.addOneToAttendence</definition>
+        <argsstring>()</argsstring>
+        <name>addOneToAttendence</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Brian/Desktop/Stark/Project3/guestRegistrationForm.cs" line="12" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/guestRegistrationForm.cs" bodystart="12" bodyend="16"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Users/Brian/Desktop/Stark/Project3/guestRegistrationForm.cs" line="4" column="1" bodyfile="C:/Users/Brian/Desktop/Stark/Project3/guestRegistrationForm.cs" bodystart="3" bodyend="23"/>
+    <listofallmembers>
+      <member refid="classguest_registration_form_1acf02721164647abafc000c5ba5bf4f72" prot="public" virt="non-virtual"><scope>guestRegistrationForm</scope><name>addOneToAttendence</name></member>
+      <member refid="classguest_registration_form_1a55e62337fcdbc19b968efb0cdb787851" prot="private" virt="non-virtual"><scope>guestRegistrationForm</scope><name>attendingSpeecial</name></member>
+      <member refid="classguest_registration_form_1af6c6bf7e12d5fa272bcdfe043636217c" prot="private" virt="non-virtual"><scope>guestRegistrationForm</scope><name>cardNumber</name></member>
+      <member refid="classguest_registration_form_1a0aafc01c6a5f2928f1951e0c55374a4c" prot="private" virt="non-virtual"><scope>guestRegistrationForm</scope><name>Name</name></member>
+      <member refid="classguest_registration_form_1acb0c5b9784ba7ac6cfa9019d68c04def" prot="private" virt="non-virtual"><scope>guestRegistrationForm</scope><name>paymentType</name></member>
+      <member refid="classguest_registration_form_1ab8ade8ec3734b8259c42d1bbf13e1b46" prot="private" virt="non-virtual"><scope>guestRegistrationForm</scope><name>sessiontoAttend</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>
